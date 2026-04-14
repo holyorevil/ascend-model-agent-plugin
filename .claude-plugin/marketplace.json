@@ -9,7 +9,7 @@
       "name": "ascend-model-agent-plugin",
       "source": {
           "source": "url",
-          "url": "https://gitcode.com/gmq123/ascend-model-agent-plugin.git"
+          "url": "https://github.com/holyorevil/ascend-model-agent-plugin.git"
       },
       "description": "昇腾插件，提供昇腾模型的适配优化部署量化的能力",
       "version": "1.0.0",
