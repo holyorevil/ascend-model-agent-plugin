@@ -1,7 +1,7 @@
 {
-  "name": "Mofix-plugin",
+  "name": "ascend-model-agent-plugin",
   "version": "1.0.0",
-  "description": "Mofix昇腾插件，提供昇腾模型的适配优化部署量化的能力",
+  "description": "昇腾插件，提供昇腾模型的适配优化部署量化的能力",
   "author": {
       "name": "Mofix"
   },

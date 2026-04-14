@@ -1,4 +1,4 @@
-# MoFix Plugin 使用说明
+# ascend-model-agent-plugin 使用说明
 
 ## 快速开始
 
@@ -8,15 +8,15 @@
 使用如下命令打开claude，该插件在本次claude会话周期内生效
 ```bash
 # 系统级 skills 目录
-claude --plugin-dir ./Mofix-plugin
+claude --plugin-dir ./ascend-model-agent-plugin
 ```
 
 #### 系统级安装
-将 `MoFix-plugin` 目录复制到 Claude 的 skills 目录：
+将 `ascend-model-agent-plugin` 目录复制到 Claude 的 skills 目录：
 
 ```bash
 # 系统级 skills 目录
-cp -r MoFix-plugin ~/.claude/skills/
+cp -r ascend-model-agent-plugin ~/.claude/skills/
 
 # 执行 claude 目录
 claude
